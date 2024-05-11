@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Music School Website
 
-## Getting Started
+## Description
+This project is a Music School website, dedicated to providing premier musical education. It is built using Next.js, TypeScript, Tailwind CSS, and utilizes the Aceternity UI components. This is my first project using Next.js and TypeScript, and I have incorporated improvements in my understanding of these technologies while developing this project.
 
-First, run the development server:
+## Live Demo
+- **[View Live](https://music-academy-six.vercel.app/)**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
+- **Premier Musical Education:** Offers high-quality musical education services.
+- **Next.js and TypeScript:** Utilizes Next.js and TypeScript for improved performance and type safety.
+- **Tailwind CSS:** Styling done using Tailwind CSS for rapid development and customizability.
+- **Aceternity UI Components:** Integrates Aceternity UI components for a polished user interface.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Used
+- **Next.js:** Framework for building React applications with server-side rendering and routing.
+- **TypeScript:** Adds static typing to JavaScript for improved code quality and maintainability.
+- **Tailwind CSS:** Utility-first CSS framework for creating custom designs without writing CSS.
+- **Aceternity UI:** UI components library for building modern web applications.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Screenshot
+![Music School Website Screenshot](./Screenshots/Screenshot1.png)
+![Music School Website Screenshot](./Screenshots/Screenshot2.png)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Usage
+1. Explore the website to learn about the music school's offerings and services.
+2. Navigate through different sections such as courses, instructors, and events.
+3. Use the contact form to get in touch with the music school for inquiries or registration.
 
-## Learn More
+## How to Run
+1. Clone this repository to your local machine.
+2. Install dependencies using `npm install`.
+3. Run the development server using `npm run dev`.
 
-To learn more about Next.js, take a look at the following resources:
+## Credits
+- UI components provided by [Aceternity UI](https://ui.aceternity.com/).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Author
+[Dharam]
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Feel free to customize this readme file according to your project's specifics and preferences.
