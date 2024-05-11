@@ -1,6 +1,5 @@
 'use client'
 import Link from 'next/link'
-import React from 'react'
 import { Button } from './ui/moving-border'
 import courseData from '../data/music_course.json';
 import { BackgroundGradient } from './ui/background-gradient';

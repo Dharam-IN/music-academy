@@ -5,7 +5,6 @@ import { HoveredLink, Menu, ProductItem, MenuItem } from './ui/navbar-menu'
 import { cn } from '@/utils/cn'
 import Link from 'next/link'
 
-import React from 'react'
 
 const Navbar = ({ className }: { className?: string }) => {
   const [active, setActive] = useState<string | null>(null);
