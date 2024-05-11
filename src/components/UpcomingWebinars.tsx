@@ -62,8 +62,7 @@ const UpcomingWebinars = () => {
         </div>
         <div className="mt-10">
         <div className="max-w-5xl mx-auto px-8">
-            <HoverEffect
-            items={featuredWebinars.map(webinar => (
+            <HoverEffect items={featuredWebinars.map(webinar => (
               {
                 items: webinar.title,
                 description: webinar.description,
